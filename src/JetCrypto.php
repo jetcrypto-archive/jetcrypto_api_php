@@ -37,7 +37,7 @@ class JetCrypto extends JetCryptoAPITrading {
      *
      * @return
      */
-    public function __construct($apiKey = null, $apiSecret = null, $apiVersion = 3) {
+    public function __construct($apiKey = null, $apiSecret = null, $apiVersion = 1) {
         if (is_null($apiKey) || is_null($apiSecret)) {
             return;
         }
