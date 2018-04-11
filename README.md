@@ -1,5 +1,5 @@
 # JetCrypto API
-PHP wrapper for the JetCrypto API
+PHP wrapper for the JetCrypto API v.1
 
 Requirements
 ------------
